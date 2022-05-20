@@ -1,0 +1,155 @@
+/* / topo da pagina */
+#top{
+
+	background: #04AA6D;
+	color: #ffffff;
+	margin: 10px;
+	padding: 2px 5px 5px 5px ;
+
+}
+
+.top-title{
+
+	margin-left: 15px;
+}
+
+.subtitle{
+
+	margin-top: -20px;
+	margin-left: 15px;
+}
+
+/* // topo da pagina */
+
+/* / centro da pagina */
+
+p{
+	font-size: 1.2em;
+	margin-left: 10px;
+}
+
+#center{
+
+	margin-left: 250px;
+	margin-right: 220px;
+
+}
+
+.title-center{
+
+	margin-left: 10px;
+	
+}
+
+ a{
+
+	font-size: 1.2em;
+	
+	margin-left: 10px;
+	margin-top: -10px;
+	color: black;
+
+}
+
+ a:hover{
+
+	text-decoration: none;
+}
+
+.second-title{
+
+	margin-left: 255px;
+	margin-top: -10px;
+	margin-right: 220px;
+
+}
+
+.second{
+
+	margin-left: 10px;
+
+}
+
+
+/* // centro da pagina */
+
+/* / menu lateral esquerda */
+
+#menu{
+	
+	margin-right: 1110px;
+	margin-top: -365px;
+	margin-left: 10px;
+		
+}
+
+
+#menu td{
+
+	border: 1px solid #d4d4d4;
+	border-radius: 4px;
+	font-size: 1.1em;
+	text-align: left;
+	cursor: pointer;     
+	padding: 6px;
+	padding-right: 80px;
+		
+}
+
+.style-unic{
+
+	background-color: #04AA6D;
+	color: #ffffff;
+
+}
+
+.normal{
+
+	background-color: #f1f1f1;
+}
+
+.normal:hover {
+
+	background: #ffffff;
+}
+
+/* // menu lateral esquerda */
+
+/* / lateral direita */
+
+#asside{
+
+	border-radius: 4px;
+	color: #ffffff;
+	position: absolute;
+	background:#32a4e7;
+	margin-left: 1135px;
+	margin-top: -187px;
+	margin-right: 15px;
+	padding: 10px;
+	padding-bottom: 80px;
+	text-align: left;
+
+}
+
+/* // lateral direita */
+
+/* / rodapé */
+
+footer{
+
+	position: absolute;
+	border: 1px solid #d4d4d4;
+	background: red;
+	margin-top: 200px;
+	margin-left: 15px;
+	margin-right: 10px;
+	font-size: 0.8em;
+	text-align: center;
+	background: #f1f1f1;
+    padding: 10px;
+    font-size: 70%;
+    line-height: 14px;
+}
+
+/* // rodapé*/
