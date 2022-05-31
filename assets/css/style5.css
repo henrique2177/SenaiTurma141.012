@@ -1,0 +1,150 @@
+
+body{
+
+    background-color:#D3D0CB;
+    font: helvetica;
+
+}
+
+header { 
+
+    font-size: 1.1em;
+    width: 100%;
+    text-align: center;
+    background-color: #1e2019;
+    color: white;
+    padding: 5px;
+}
+
+nav{
+   
+    font-size: 1.2em;
+    width: 100%;
+  
+ }
+
+#link-nav  {
+    
+    text-align: center;
+    height: 40px;
+    margin-top: 20px;
+    
+    
+    
+  
+ }
+#link-nav a{
+
+    color: white;
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 8px;
+    text-transform: uppercase;
+    background-color: #7D7ABC;
+   
+   
+   
+}
+
+#link-nav a:hover{
+
+    background-color: #0D324D;
+    color: white;
+    box-shadow:2px 7px #7D7ABC;
+}
+
+
+.link a{
+   
+   text-align: center;
+    border-radius: 10px;
+    width: 20%;
+    display: block;
+    margin-left: 40%;
+    padding: 3px;
+    margin-top: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #7D7ABC;
+    color: white;
+}
+
+.link a:hover{
+
+    background-color: #0D324D;
+  
+}
+article{
+
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    font-size: 1.2em;
+    background-color: #1e2019;
+    color: white;
+    padding: 5px;
+}
+article a{
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+aside{
+
+    background-color: #1e2019;
+    color: white;
+    border-radius: 10px;
+    width: 14%;
+    float: right;
+    margin-top: -470px;
+    height: 420px;  
+    text-align: center;
+    font-size: 1.2em;
+}
+
+aside1{
+
+    background-color: #1e2019;
+    color: white;
+    float: left;
+    margin-left: 3px;
+    border-radius: 10px;
+    width: 14%;
+    margin-top: -470px;
+    height: 420px;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+section{
+
+    background-color: #bbaf9b;
+    color: black;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    margin-top: 20px;
+   
+    
+}
+
+section a{
+
+    background-color: #7D7ABC;
+    color: white;
+    text-decoration: none;
+    
+    
+  
+   
+}
+section a:hover{
+
+    background-color: #0D324D;
+}
+
+footer{
+
+    margin-top: 30px;
+    text-align: center;
+}

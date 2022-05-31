@@ -1,0 +1,86 @@
+h1, h2, h3{
+    color:#4CAF50;
+    font-size: 1.8em;
+    font-weight: bold;
+    
+   
+}
+
+.top {
+    
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 1.3em;
+    position:relative;
+}
+
+
+
+
+
+#sidebar {
+    
+    margin-left: 30px;
+    margin-top: 35px;
+   
+
+   
+}
+
+#sidebar a{
+    background-color: #555555;
+    color: white;
+    padding: 8px;
+    margin-right: 10px;
+    font-size: 1.2em;
+    text-decoration: none;
+       
+}
+
+#sidebar a:hover{
+    background-color: black;
+}
+
+.nav h2{
+
+  
+    margin-left: 30px;
+    font-size: 2em;
+}
+
+.nav p, h3{
+
+    margin-left: 30px;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    
+}
+
+.links-nav a {
+
+    margin-left: 30px;
+  margin-right: -20px;
+  font-size: 1.2em;
+    
+
+}
+
+.barra{
+
+    background-color: #f1f1f1;
+    border: 1px solid #d4d4d4;
+    margin-top: 20px;
+    
+}
+
+.barra h2{
+    font-size: 25px !important;
+}
+
+footer{
+    font: 100% Verdana;
+    text-align: center;
+    font-size: 70%;
+    padding: 10px;
+    line-height: 14px;
+}
